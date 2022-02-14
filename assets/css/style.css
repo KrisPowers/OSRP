@@ -136,7 +136,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 15px 0;
   background-color: #191b1f;
   background: #191b1f;
-  border: 1px solid #e73131;
+  border-bottom: 1px solid #e73131;
   box-shadow: 25px 15px 25px 15px rgba(0, 0, 0, 0.1);
 }
 
