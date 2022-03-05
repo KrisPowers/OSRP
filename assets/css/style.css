@@ -1427,7 +1427,7 @@ section {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   padding: 30px;
   border-radius: 5px;
-  background-image: url("../img/Applications/Staff.jpg");
+  background-color: #191b1f;
   transition: 0.5s;
   margin-top: 10px;
   border: 1px solid #e73131;
