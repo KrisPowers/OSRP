@@ -836,6 +836,12 @@ section {
   padding: 60px 100px 0 100px;
 }
 
+.why-us .content strong {
+  font-size: 24px;
+  font-weight: 400px;
+  color: #ffffff;
+}
+
 .why-us .content h3 {
   font-weight: 400;
   font-size: 34px;
@@ -1336,9 +1342,9 @@ section {
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/
+
 .team {
-  box-shadow: 25px 15px 25px 15px rgba(0, 0, 0, 0.1);
-  margin-top: 40px;
+  margin-top: 25px;
 }
 
 .team .member {
